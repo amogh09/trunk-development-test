@@ -1,4 +1,4 @@
-### Unreleased changes
+### Release 1.2.0
 * Feature D
 
 ### Release 1.1.0
